@@ -2,7 +2,7 @@
 
 ### <strong>Olá, me chamo Guilherme</strong> 👋
 
-- 🔭 Atutalmente estudante de TI, cursando ensino médio e Tabém o curso programadorBR
+- 🔭 Atutalmente estudante de TI, cursando ensino médio e também o curso programadorBR
 - 📚 <strong>Estudando as seguintes linguagens: </strong> <br>
 - JavaScript & Nodejs <br>
 - HTML <br> 
